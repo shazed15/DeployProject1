@@ -1,0 +1,31 @@
+body {
+  background-color: #f9f9f9;
+}
+.container{
+  background-color: white;
+}
+.card {
+  border: 2px solid #E6E6E6;
+  background-color: #FAFAF5;
+  border-radius: 15px;
+}
+.img-fluid{
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+.order-summary {
+  width: 100%;
+  background-color: #FAFAF5;
+  border-radius: 15px;
+  padding: 20px;
+  border: 2px solid #E6E6E6;
+}
+.btn-success {
+  background-color: #4CAF50;
+  border: none;
+}
+.btn-success:hover {
+  background-color: #45A049;
+}
+
+
