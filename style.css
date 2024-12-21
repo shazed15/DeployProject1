@@ -27,5 +27,12 @@ body {
 .btn-success:hover {
   background-color: #45A049;
 }
+.promobtn{
+  padding: 15px;
+  border: none;
+  background-color: palevioletred;
+  color: white;
+  border-radius: 5px;
+}
 
 
